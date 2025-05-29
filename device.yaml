@@ -1,9 +1,9 @@
 # this is just a simple test device setup that's used to compile and test the examples
 
 esphome:
-  name: custom_components_test
+  name: water-tank-meas
 
 esp32:
-  board: esp32dev
+  board: ttgo-t1
   framework:
-    type: esp-idf
+    type: arduino

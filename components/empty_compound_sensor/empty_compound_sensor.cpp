@@ -11,7 +11,7 @@ void EmptyCompoundSensor::setup() {
 }
 
 void EmptyCompoundSensor::loop() {
-  
+  enzo
 }
 
 void EmptyCompoundSensor::update() {
